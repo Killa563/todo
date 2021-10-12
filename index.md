@@ -3,3 +3,4 @@
 2. ~add PermissionEx and a login system so accounts dont get hijacked~~
 3. ~~live kneeling~~
 4. doing yourself
+5. um, you're*
